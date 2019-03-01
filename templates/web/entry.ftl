@@ -4,7 +4,7 @@
 <html lang="en">
 	<head>
       <meta charset="utf-8">
-      <title>${model.title}?</title>
+      <title>${model.title}</title>
 	</head>
 	<body>
     	<div <@studio.iceAttr iceGroup="title"/>>
