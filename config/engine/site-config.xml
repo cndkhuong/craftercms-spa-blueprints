@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-    <filters></filters>
+    <!-- (Single Page Application Properties (React JS, Angular, Vue.js, etc.)) -->
+    <spa>
+        <!-- Enable/disable SPA mode, default is false -->
+        <enabled>false</enabled>
+        <!-- 
+        The view name for the SPA.
+        Current view names can be a page URL (like /) or a template 
+        name like /template/web/app.ftl. Default is /
+        -->
+        <viewName>/</viewName>
+    </spa>
     <!-- CORS Properties -->
     <cors>
         <enable>true</enable>
