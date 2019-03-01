@@ -3,7 +3,7 @@
     <!-- (Single Page Application Properties (React JS, Angular, Vue.js, etc.)) -->
     <spa>
         <!-- Enable/disable SPA mode, default is false -->
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <!-- 
         The view name for the SPA.
         Current view names can be a page URL (like /) or a template 
