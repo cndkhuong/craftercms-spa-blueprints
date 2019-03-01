@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <site>
+    <filters></filters>
     <!-- CORS Properties -->
     <cors>
         <enable>true</enable>
