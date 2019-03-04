@@ -19,10 +19,6 @@
   color: white;
 }
 
-.result {
-  color: crimson;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -30,4 +26,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.result {
+  color: crimson;
 }
