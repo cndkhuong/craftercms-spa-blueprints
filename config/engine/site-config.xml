@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <!-- (Single Page Application Properties (React JS, Angular, Vue.js, etc.)) -->
+    <spa>
+        <!-- Enable/disable SPA mode, default is false -->
+        <enabled>true</enabled>
+        <!-- 
+        The view name for the SPA.
+        Current view names can be a page URL (like /) or a template 
+        name like /template/web/app.ftl. Default is /
+        -->
+        <viewName>/</viewName>
+    </spa>
+    <!-- CORS Properties -->
+    <cors>
+        <enable>true</enable>
+        <accessControlMaxAge>3600</accessControlMaxAge>
+        <accessControlAllowOrigin>http://127.0.0.1:4200</accessControlAllowOrigin>
+        <accessControlAllowMethods>GET\, POST\, PUT\, OPTIONS</accessControlAllowMethods>
+        <accessControlAllowHeaders>Content-Type</accessControlAllowHeaders>
+        <accessControlAllowCredentials>true</accessControlAllowCredentials>
+    </cors>
+</site>

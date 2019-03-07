@@ -5,17 +5,17 @@ descriptorVersion: 1
 
 # Describe the blueprint
 blueprint:
-  id: org.craftercms.blueprint.empty
-  name: Empty Blueprint
-  tags: blueprint,website
+  id: org.craftercms.blueprint.angular
+  name: Angular Blueprint
+  tags: blueprint,website,angular
   version:
     major: 1
     minor: 0
     patch: 0
   description: |
-    Simple empty blueprint
+    Simple empty angular blueprint
   website:
-    name: Empty Blueprint
+    name: Angular Blueprint
     url: https://example.com
   media:
     screenshots:
@@ -31,8 +31,8 @@ blueprint:
     developer:
       people:
         - person:
-            name: John Doe
-            email: john.doe@example.com
+            name: Roy Art
+            email: roy.art@craftersoftware.com
             url: https://example.com
       company:
         name: Crafter Software
