@@ -5,7 +5,7 @@ descriptorVersion: 1
 
 # Describe the blueprint
 blueprint:
-  id: org.craftercms.blueprint.empty
+  id: org.craftercms.blueprint.react
   name: Empty Blueprint
   tags: blueprint,website
   version:
@@ -31,9 +31,9 @@ blueprint:
     developer:
       people:
         - person:
-            name: John Doe
-            email: john.doe@example.com
-            url: https://example.com
+            name: Roy Art
+            email: roy.art@craftersoftware.com
+            url: https://github.com/rart
       company:
         name: Crafter Software
         email: info@craftersoftware.com
