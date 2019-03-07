@@ -1,1 +1,0 @@
-return 'Hello and welcome to CrafterCMS!';
