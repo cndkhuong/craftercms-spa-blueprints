@@ -6,7 +6,7 @@ descriptorVersion: 1
 # Describe the blueprint
 blueprint:
   id: org.craftercms.blueprint.react
-  name: Empty Blueprint
+  name: React Blueprint
   tags: blueprint,website
   version:
     major: 1
@@ -15,7 +15,7 @@ blueprint:
   description: |
     Simple empty blueprint
   website:
-    name: Empty Blueprint
+    name: React Blueprint
     url: https://example.com
   media:
     screenshots:
